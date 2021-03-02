@@ -13,7 +13,6 @@ import java.util.Set;
 
 /*
  *  Developed by Quang Duong on 2/17/21, 11:06 AM
- * Copyright (c) DnqSoft 2020. All rights reserved.
  */
 
 public class BFSLabelComponent<N> extends BFS<N>{

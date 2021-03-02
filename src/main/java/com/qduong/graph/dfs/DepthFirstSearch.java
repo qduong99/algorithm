@@ -1,6 +1,5 @@
 package com.qduong.graph.dfs;/*
  *  Developed by Quang Duong on 2/17/21, 3:24 PM
- * Copyright (c) DnqSoft 2020. All rights reserved.
  */
 
 import com.google.common.graph.EndpointPair;

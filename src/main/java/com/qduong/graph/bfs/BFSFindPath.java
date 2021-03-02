@@ -14,7 +14,6 @@ import java.util.List;
 
 /*
  *  Developed by Quang Duong on 2/17/21, 11:06 AM
- * Copyright (c) DnqSoft 2020. All rights reserved.
  */
 
 public class BFSFindPath<N> extends BFS<N>{

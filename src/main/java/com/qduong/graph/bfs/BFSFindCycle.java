@@ -1,7 +1,6 @@
 package com.qduong.graph.bfs;
 /*
  *  Developed by Quang Duong on 2/17/21, 11:07 AM
- * Copyright (c) DnqSoft 2020. All rights reserved.
  */
 
 import com.google.common.graph.EndpointPair;
