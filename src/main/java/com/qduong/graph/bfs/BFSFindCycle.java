@@ -10,6 +10,9 @@ import com.google.common.graph.ImmutableGraph;
 
 import java.util.*;
 
+/**
+ * Breadth first search to find a cycle in graph
+ */
 public class BFSFindCycle<N> extends BFS<N>{
     protected Map<N, Integer> level = new HashMap<>();
     List<LinkedList> result = new ArrayList<>();
