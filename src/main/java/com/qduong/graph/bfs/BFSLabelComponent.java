@@ -1,7 +1,4 @@
-package com.qduong.graph.bfs;/*
- *  Developed by Quang Duong on 2/16/21, 10:42 PM
- * Copyright (c) DnqSoft 2020. All rights reserved.
- */
+package com.qduong.graph.bfs;
 
 import com.google.common.graph.Graph;
 import com.google.common.graph.GraphBuilder;

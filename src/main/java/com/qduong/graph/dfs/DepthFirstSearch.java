@@ -1,6 +1,4 @@
-package com.qduong.graph.dfs;/*
- *  Developed by Quang Duong on 2/17/21, 3:24 PM
- */
+package com.qduong.graph.dfs;
 
 import com.google.common.graph.EndpointPair;
 import com.google.common.graph.Graph;
@@ -9,6 +7,10 @@ import com.qduong.graph.Label;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+
+/*
+ *  Developed by Quang Duong on 2/17/21, 3:24 PM
+ */
 
 public class DepthFirstSearch<N> {
     protected void initResult(Graph graph){}
